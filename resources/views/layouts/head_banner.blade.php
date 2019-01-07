@@ -11,8 +11,8 @@
                             <p data-animation="animated fadeInUp delay-10s">
                                 This is real transpotation website template based on Bootstrap 4 framework.
                             </p>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-theme">Login</a>
-                            <a data-animation="animated fadeInUp delay-12s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Register</a>
+                            <a data-animation="animated fadeInUp delay-10s" href="{{ route('login') }}" class="btn btn-lg btn-round btn-theme">Login</a>
+                            <a data-animation="animated fadeInUp delay-12s" href="{{  route('register') }}" class="btn btn-lg btn-round btn-white-lg-outline">Register</a>
                         </div>
                     </div>
                 </div>
@@ -27,8 +27,8 @@
                             <p data-animation="animated fadeInUp delay-10s">
                                 This is real transpotation website template based on Bootstrap 4 framework.
                             </p>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-theme">Login</a>
-                            <a data-animation="animated fadeInUp delay-12s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Register</a>
+                            <a data-animation="animated fadeInUp delay-10s" href="{{ route('login') }}" class="btn btn-lg btn-round btn-theme">Login</a>
+                            <a data-animation="animated fadeInUp delay-12s" href="{{  route('register') }}" class="btn btn-lg btn-round btn-white-lg-outline">Register</a>
                         </div>
                     </div>
                 </div>
@@ -43,8 +43,8 @@
                             <p data-animation="animated fadeInUp delay-10s">
                                 This is real transpotation website template based on Bootstrap 4 framework.
                             </p>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-theme">Login</a>
-                            <a data-animation="animated fadeInUp delay-12s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Register</a>
+                            <a data-animation="animated fadeInUp delay-10s" href="{{ route('login') }}" class="btn btn-lg btn-round btn-theme">Login</a>
+                            <a data-animation="animated fadeInUp delay-12s" href="{{  route('register') }}" class="btn btn-lg btn-round btn-white-lg-outline">Register</a>
                         </div>
                     </div>
                 </div>
